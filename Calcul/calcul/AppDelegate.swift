@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  Calcul
+//  calcul
 //
 //  Created by user on 18/11/2020.
 //
